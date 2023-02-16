@@ -48,13 +48,8 @@
 
 ---
 
-### :round_pushpin: Some more info
-
-<a href="https://www.instagram.com/isthatkirill">
-		<img src="https://img.shields.io/badge/Instagram-B1361E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 <a href="https://www.codewars.com/users/isthatkirill">
-		<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+		<img src="https://www.codewars.com/users/isthatkirill/badges/small" alt="Codewars"/>
 </a>
 <a href="https://leetcode.com/profile/account/isthatkirill">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/>
