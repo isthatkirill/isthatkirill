@@ -37,6 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JUnit_5_Banner.png/330px-JUnit_5_Banner.png" title="spring" width="125" height="40"/>&nbsp;
+
 
 ---
 
@@ -50,8 +52,4 @@
 
 <a href="https://www.codewars.com/users/isthatkirill">
 		<img src="https://www.codewars.com/users/isthatkirill/badges/small" alt="Codewars"/>
-</a>
-
-<a href="https://leetcode.com/profile/account/isthatkirill">
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fisthatkirill&logo=leetcode&logoColor=yellow" alt="Leetcode"/>
 </a>
