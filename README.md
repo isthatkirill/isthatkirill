@@ -29,20 +29,18 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JUnit_5_Banner.png/330px-JUnit_5_Banner.png" title="JUnit" width="125" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/510px-Apache_Maven_logo.svg.png" title="Maven" width="160" height="40"/>&nbsp;
-<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" title="Insomnia" width="40" height="40"/>&nbsp;
-
-
-
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-090909?style=for-the-badge&logo=IntelliJ%20IDEA)
+![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
+![Apache Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=4000BF)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 
 ---
