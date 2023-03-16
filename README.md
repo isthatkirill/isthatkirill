@@ -36,6 +36,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=4000BF)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
