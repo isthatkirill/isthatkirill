@@ -5,13 +5,13 @@
 
 <div id="socials" align="center">
 	<a href="https://vk.com/isthatkirill">
-		<img src="https://img.shields.io/badge/вконтакте-7289DA.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
+		<img src="https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=VK&logoColor=0077FF" alt="Vk"/>
 	</a>
     <a href="https://t.me/isthatkirill">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/>
 	</a>
     <a href="https://discordapp.com/users/358272455535755317/ ">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+		<img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4" alt="Telegram"/>
 	</a>
 </div>
 
@@ -28,7 +28,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-090909?style=for-the-badge&logo=IntelliJ%20IDEA)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
@@ -42,6 +42,14 @@
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+
+---
+### :pencil: Completed courses
+
+- Java-developer [07.11.2022 - 09.09.2023] [(Yandex.Praktikum)](https://practicum.yandex.ru/java-developer/)
+- Spring - Full course. Boot, Hibernate, Security, REST [01.04.2023 - nowadays] [(Nail Alishev)](https://swiftbook.org/courses/438/show_promo)
+- Spring for beginners [12.11.2022 - 29.12.2022] [(Zaur Trezulov)](https://stepik.org/course/115372/promo)
+
 
 
 ---
