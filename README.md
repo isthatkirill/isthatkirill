@@ -49,11 +49,11 @@
 ---
 ### :pencil: Completed courses
 
-- Java-developer [07.11.2022 - nowadays] [(Yandex.Praktikum)](https://practicum.yandex.ru/java-developer/)
-- Spring - Full course. Boot, Hibernate, Security, REST [01.04.2023 - nowadays] [(Nail Alishev)](https://swiftbook.org/courses/438/show_promo)
-- Spring for beginners [12.11.2022 - 29.12.2022] [(Zaur Trezulov)](https://stepik.org/course/115372/promo)
-- Preparing for an algorithmic interview [23.01.2023 - 12.03.2023] [(Yandex.Praktikum)](https://practicum.yandex.ru/algorithms-interview)
-- Practical course on SQL & PostgreSQL [08.04.2023 - nowadays] [(Stepik)](https://stepik.org/course/97207/syllabus)
+- Java-developer [(Yandex.Praktikum)](https://practicum.yandex.ru/java-developer/)
+- Spring - Full course. Boot, Hibernate, Security, REST  [(Nail Alishev)](https://swiftbook.org/courses/438/show_promo)
+- Spring for beginners  [(Zaur Trezulov)](https://stepik.org/course/115372/promo)
+- Preparing for an algorithmic interview [(Yandex.Praktikum)](https://practicum.yandex.ru/algorithms-interview)
+- Practical course on SQL & PostgreSQL [(Stepik)](https://stepik.org/course/97207/syllabus)
 
 
 ---
