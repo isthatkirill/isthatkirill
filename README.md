@@ -35,9 +35,12 @@
 ![Apache Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=59666C)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=4000BF)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/-MOCKITO-090909?style=for-the-badge)
 ![apachetomcat](https://img.shields.io/badge/-apache%20tomcat-090909?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75)
 ![thymeleaf](https://img.shields.io/badge/-thymeleaf-090909?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
@@ -64,7 +67,7 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isthatkirill&theme=github_dark"/>		
 </div>
 
----
+<br/>
 
 <a href="https://www.codewars.com/users/isthatkirill">
 		<img src="https://www.codewars.com/users/isthatkirill/badges/small" alt="Codewars"/>
