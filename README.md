@@ -8,10 +8,10 @@
 		<img src="https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=VK&logoColor=0077FF" alt="Vk"/>
 	</a>
     <a href="https://t.me/isthatkirill">
-		<img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/>
+	   	 <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4" alt="Telegram"/>
 	</a>
     <a href="https://discordapp.com/users/358272455535755317/ ">
-		<img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4" alt="Telegram"/>
+	   	 <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/>
 	</a>
 </div>
 
@@ -30,18 +30,21 @@
 
 ### :hammer_and_wrench: Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-090909?style=for-the-badge&logo=IntelliJ%20IDEA)
-![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
-![Apache Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Spring Data](https://img.shields.io/badge/-Spring%20Data%20JPA-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Spring Data](https://img.shields.io/badge/-Spring%20Data%20JDBC-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=59666C)
+![Apache Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
+![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
+![Mockito](https://img.shields.io/badge/-MOCKITO-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=4000BF)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-090909?style=for-the-badge&logo=IntelliJ%20IDEA)
 ![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![liquibase](https://img.shields.io/badge/-Liquibase-090909?style=for-the-badge&logo=Liquibase&logoColor=2962FF)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
-![Docker](https://img.shields.io/badge/-MOCKITO-090909?style=for-the-badge)
-![apachetomcat](https://img.shields.io/badge/-apache%20tomcat-090909?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75)
+![apache kafka](https://img.shields.io/badge/-Apache%20Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=231F20)
+![redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
 ![thymeleaf](https://img.shields.io/badge/-thymeleaf-090909?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
