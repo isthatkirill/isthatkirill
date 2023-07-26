@@ -45,6 +45,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![apache kafka](https://img.shields.io/badge/-Apache%20Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=231F20)
 ![redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=DC382D)
+![swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
 ![thymeleaf](https://img.shields.io/badge/-thymeleaf-090909?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
