@@ -20,11 +20,11 @@
 ### About me
 
 - :books: I'm studying at [SPbSUT](https://www.sut.ru/) in the second year
-- :leaves: I’m currently learning **Spring Framework (Java)**
+- :leaves: I’m currently learning **Spring Framework**
 - 📝 I regularly practice on **Leetcode and Codewars**
 - 🌍 My English level is **B2**
 - :eyes: I'm looking for **internship** at IT company
-- 📫 Reach me by [Telegram](https://t.me/isthatkirill), [Email](mailto:kirill.emelyanoff2021@yandex.ru)
+- 📫 Reach me by [Telegram](https://t.me/isthatkirill), [Email](mailto:kirill.emelyanoff2023@yandex.ru)
 
 ---
 
