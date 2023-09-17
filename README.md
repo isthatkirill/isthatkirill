@@ -20,10 +20,9 @@
 ### About me
 
 - :books: I'm studying at [SPbSUT](https://www.sut.ru/) in the second year
-- :leaves: I’m currently learning **Spring Framework**
-- 📝 I regularly practice on **Leetcode and Codewars**
+- :leaves: I’m currently learning **Spring Security**
 - 🌍 My English level is **B2**
-- :eyes: I'm looking for **internship** at IT company
+- :eyes: I'm looking for **internship or job** at IT company
 - 📫 Reach me by [Telegram](https://t.me/isthatkirill), [Email](mailto:kirill.emelyanoff2023@yandex.ru)
 
 ---
@@ -48,6 +47,7 @@
 ![swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
 ![thymeleaf](https://img.shields.io/badge/-thymeleaf-090909?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
+![bash](https://img.shields.io/badge/-bash-090909?style=for-the-badge&logo=GNUbash&logoColor=4EAA25)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -61,7 +61,6 @@
 - Spring for beginners  [(Zaur Trezulov)](https://stepik.org/course/115372/promo)
 - Preparing for an algorithmic interview [(Yandex.Praktikum)](https://practicum.yandex.ru/algorithms-interview)
 - Practical course on SQL & PostgreSQL [(Stepik)](https://stepik.org/course/97207/syllabus)
-
 
 ---
 
