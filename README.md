@@ -17,16 +17,6 @@
 
 ---
 
-### About me
-
-- :books: I'm studying at [SPbSUT](https://www.sut.ru/) in the second year
-- :leaves: I’m currently learning **Spring Security**
-- 🌍 My English level is **B2**
-- :eyes: I'm looking for **internship or job** at IT company
-- 📫 Reach me by [Telegram](https://t.me/isthatkirill), [Email](mailto:kirill.emelyanoff2023@yandex.ru)
-
----
-
 ### :hammer_and_wrench: Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
@@ -62,16 +52,3 @@
 - Preparing for an algorithmic interview [(Yandex.Praktikum)](https://practicum.yandex.ru/algorithms-interview)
 - Practical course on SQL & PostgreSQL [(Stepik)](https://stepik.org/course/97207/syllabus)
 
----
-
-### :chart_with_upwards_trend: My statistics
-
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isthatkirill&theme=github_dark"/>		
-</div>
-
-<br/>
-
-<a href="https://www.codewars.com/users/isthatkirill">
-		<img src="https://www.codewars.com/users/isthatkirill/badges/small" alt="Codewars"/>
-</a>
